@@ -1,4 +1,4 @@
-### Olá Eu sou o Kayo Silva
+### Olá Eu sou o Kayo Silva 👋
 
--💻 Hoje trabalho com Desinvolvimento de Aplicativos
--🌱 Estudando React-Native e Vue.js
+[![Youtube]https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white]
+
