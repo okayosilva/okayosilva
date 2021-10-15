@@ -1,12 +1,16 @@
 ### Salve, Salve Dev! Eu Sou o Kayo Silva 👋
 
+
+
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenriquesilva/)
 
-![KayoSilva19 GitHub stats](https://github-readme-stats.vercel.app/api?username=KayoSilva19&show_icons=true&theme=tokyonight)
-</br>
+<div>
+  <a href="https://github.com/KayoSilva19 ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayoSilva19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 ## Tecnologias que uso no meu dia 
