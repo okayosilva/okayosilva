@@ -46,7 +46,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 
