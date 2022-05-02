@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor FullStack Jr & Instrutor focado em ajudar pessoas que estão iniciando na programação
 
-- 🔭 Atualmente estou trabalhando na [Deloitte](https://www.linkedin.com/company/deloitte/)
+- 🔭 Atualmente estou trabalhando como Analista de Tecnologia na [Deloitte](https://www.linkedin.com/company/deloitte/)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]()
 
