@@ -15,7 +15,7 @@
 <br><br>
 
 ## 🛠 &nbsp;Tecnologias que domino
-
+<div>
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="JAVASCRIPT" 
@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=r
 src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> 
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-
+<div>
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
