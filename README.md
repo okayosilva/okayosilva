@@ -1,4 +1,4 @@
-<h1 align="left">Salve, Salve Devs! Eu Sou o Kayo Silva  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="em"></h1>
+<h1 align="left">Salve, Salve Devs! Eu Sou o Kayo Silva 🖐</h1>
 
 
 - 🔥 Desenvolvedor FullStack Jr & Instrutor focado em ajudar pessoas que estão iniciando na programação
