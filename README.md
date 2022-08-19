@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Tecnologia na [Deloitte](https://www.linkedin.com/company/deloitte/)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu [🚨 Portifólio](https://storied-cascaron-808411.netlify.app/)
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portifólio](https://storied-cascaron-808411.netlify.app/)
 
 - ▶️ Posto vídeos regularmente em [youtube.com/KayoSilva](https://www.youtube.com/channel/UCOBc2arqOXF_unilVsuVgvw)
 
