@@ -37,6 +37,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=KayoSilva19&show_icons=true&theme=tokyonight" alt="KayoSilva19's stats"/>
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
 </p>
 
