@@ -1,7 +1,7 @@
 <h1 align="left">Salve, Salve Devs! Eu Sou o Kayo Silva 🖐</h1>
 
 
-- 🔥 Desenvolvedor FullStack Jr & Instrutor focado em ajudar pessoas que estão iniciando na programação
+- 🔥 Desenvolvedor FullStack Pleno & Instrutor focado em ajudar pessoas que estão iniciando na programação
 
 - 🔭 Atualmente estou trabalhando como Analista de Tecnologia na [Deloitte](https://www.linkedin.com/company/deloitte/)
 
