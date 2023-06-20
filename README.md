@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor FullStack Pleno & Instrutor focado em ajudar pessoas que estão iniciando na programação
 
-- 🔭 Atualmente estou trabalhando como Analista de Tecnologia na [Deloitte](https://www.linkedin.com/company/deloitte/)
+- 🔭
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portifólio](https://storied-cascaron-808411.netlify.app/)
 
