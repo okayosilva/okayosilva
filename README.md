@@ -9,7 +9,7 @@
 
 - ▶️ Posto vídeos regularmente em [youtube.com/KayoSilva](https://www.youtube.com/channel/UCOBc2arqOXF_unilVsuVgvw)
 
-- 💬 Respondo perguntas sobre **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, React-Native**
+- 💬 Respondo perguntas sobre **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, React-Native, UI, UX**
 
 
 <br><br>
