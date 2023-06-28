@@ -5,7 +5,7 @@
 
 - 🔭 Buscando novas oportunidades de trabalho
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portifólio](https://storied-cascaron-808411.netlify.app/)
+- 👨‍💻 Alguns dos meus projetos estão disponíveis no meu [Portifólio](https://storied-cascaron-808411.netlify.app/)
 
 - ▶️ Posto vídeos regularmente em [youtube.com/KayoSilva](https://www.youtube.com/channel/UCOBc2arqOXF_unilVsuVgvw)
 
