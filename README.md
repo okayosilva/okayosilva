@@ -36,6 +36,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://camo.githubusercontent.com/2ce278da6f040960cf59320e3f1e75c492ffb843457d7e66437d83aa5f073837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f567565746966792d3138363743303f7374796c653d666f722d7468652d6261646765266c6f676f3d76756574696679266c6f676f436f6c6f723d414544444646" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
