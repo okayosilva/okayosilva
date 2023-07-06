@@ -65,6 +65,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 </br>
 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
