@@ -10,7 +10,6 @@ No meu GitHub, você encontrará um verdadeiro laboratório, onde compartilho pr
 - 🌱 Minha stack atual: React, React-Native, Vue, Next, Node.js, JavaScript, TypeScript.
 - 🎓 Aprendiz do Google e Youtube.
 - 📬 Meu email: kayo16silva@gmail.com
-
 </br>
 
 <div align="center">
