@@ -60,7 +60,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 - 📊 Desenvolver ainda mais minhas habilidades em inglês.
 
-- 🏆 5 mil commits.
+- 🏆 1 mil commits.
 
 </br>
 
