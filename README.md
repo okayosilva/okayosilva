@@ -17,7 +17,6 @@ No meu GitHub, você encontrará um verdadeiro laboratório, onde compartilho pr
 src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" height="250" alt="ao haru ride"
 />
 </div>
-
 </br>
 
 ### ☂️ Tecnologias:
