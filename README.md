@@ -6,6 +6,7 @@ Salve, salve Devs! 👋 Meu nome é Kayo Silva e sou um desenvolvedor de softwar
 No meu GitHub, você encontrará um verdadeiro laboratório, onde compartilho projetos pessoais desenvolvidos em diversas linguagens, tais como JavaScript, TypeScript, Java e Python.
 </p>
 </br>
+
 - 🌱 Minha stack atual: React, React-Native, Vue, Next, Node.js, JavaScript, TypeScript.
 - 🎓 Aprendiz do Google e Youtube.
 - 📬 Meu email: kayo16silva@gmail.com
