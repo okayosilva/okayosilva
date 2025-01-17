@@ -20,6 +20,6 @@ Would you like to find me?
 
 <div>
   <a href="https://github.com/okayosilva">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okayosilva&theme=holi-theme&hide_border=true"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=okayosilva&theme=dark&fire=6B81FA&currStreakNum=6B81FA&ring=6B81FA&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
   </a>
 </div>
