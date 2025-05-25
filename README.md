@@ -12,6 +12,7 @@ Would you like to find me?
 
 ## 👨🏻‍💻 Recent projects
 
+[![DEV CONTENT](https://img.shields.io/badge/DEV%20CONTENT-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://devcontent.com.br/)
 [![PIX QR Code](https://img.shields.io/badge/PIX%20QR%20Code-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://pix-qr-generator.vercel.app/)
 [![Link Hub](https://img.shields.io/badge/Link%20Hub-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://okayosilva.vercel.app/)
 [![Tailwind Color Finder](https://img.shields.io/badge/Tailwind%20Color%20Finder-282828?style=flat-square&link=https://tailwind-color-finder-pearl.vercel.app/)](https://tailwind-color-finder-pearl.vercel.app/)
