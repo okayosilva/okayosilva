@@ -13,8 +13,10 @@ Would you like to find me?
 ## 👨🏻‍💻 Recent projects
 
 [![DEV CONTENT](https://img.shields.io/badge/DEV%20CONTENT-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://devcontent.com.br/)
+[![react-rfid-input-reader](https://img.shields.io/badge/React%20RFID%20Input%20Reader-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://www.npmjs.com/package/react-rfid-input-reader)
 [![PIX QR Code](https://img.shields.io/badge/PIX%20QR%20Code-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://pix-qr-generator.vercel.app/)
 [![Link Hub](https://img.shields.io/badge/Link%20Hub-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://okayosilva.vercel.app/)
+
 
 !The world’s best senior.
 <br />
