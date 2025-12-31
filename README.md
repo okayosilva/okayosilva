@@ -9,14 +9,15 @@ Would you like to find me?
 [![Gmail](https://img.shields.io/badge/-kayo16silva@gmail.com-6B81FA?style=flat-square&labelColor=6B81FA&logo=gmail&logoColor=white&link=contato@okayosilva.dev)](mailto:kayo16silva@gmail.com)
 ![](https://komarev.com/ghpvc/?username=okayosilvabs&color=6B81FA&style=flat-square)
 
+## Deployments
 
-## 👨🏻‍💻 Recent projects
-
-[![DEV CONTENT](https://img.shields.io/badge/DEV%20CONTENT-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://devcontent.com.br/)
-[![react-rfid-input-reader](https://img.shields.io/badge/React%20RFID%20Input%20Reader-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://www.npmjs.com/package/react-rfid-input-reader)
-[![PIX QR Code](https://img.shields.io/badge/PIX%20QR%20Code-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://pix-qr-generator.vercel.app/)
-[![Link Hub](https://img.shields.io/badge/Link%20Hub-282828?style=flat-square&link=https://okayosilva.vercel.app/)](https://okayosilva.vercel.app/)
-
+| Project                 | Description                                                                                                                 | Link                                                           |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| Smart Pass              | Smart Pass integrates a password generator into your flow. Create strong passwords instantly without opening external tabs. | -                                                              |
+| DEV CONTENT             | Content platform for developers                                                                                             | [Visit](https://devcontent.com.br/)                            |
+| React RFID Input Reader | NPM package for RFID input reading in React                                                                                 | [Visit](https://www.npmjs.com/package/react-rfid-input-reader) |
+| PIX QR Code             | QR Code generator for PIX payments                                                                                          | [Visit](https://pix-qr-generator.vercel.app/)                  |
+| Link Hub                | Personal links hub                                                                                                          | [Visit](https://okayosilva.vercel.app/)                        |
 
 !The world’s best senior.
 <br />
