@@ -21,9 +21,3 @@ Would you like to find me?
 
 !The world’s best senior.
 <br />
-
-<div>
-  <a href="https://github.com/okayosilva">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=okayosilva&theme=dark&fire=6B81FA&currStreakNum=6B81FA&ring=6B81FA&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
-  </a>
-</div>
