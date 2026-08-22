@@ -15,7 +15,9 @@ Would you like to find me?
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
 | Smart Pass              | Smart Pass integrates a password generator into your flow. Create strong passwords instantly without opening external tabs. | [Visit](https://chromewebstore.google.com/detail/smartpass/olinbppfnflmmjlccmdlfjjkckhinjnj?hl=pt-BR&utm_source=ext_sidebar)|
 | React RFID Input Reader | NPM package for RFID input reading in React                                                                                 | [Visit](https://www.npmjs.com/package/react-rfid-input-reader) |
-| PIX QR Code             | QR Code generator for PIX payments                                                                                          | [Visit](https://pix-qr-generator.vercel.app/)                  |
+| PIX QR Code             | QR Code generator for PIX payments                                                                                          | [Visit](https://clean-win-build.vercel.app/)                  |
+| ClearWin         | Cleans up Windows temporary files and shows how much space you actually reclaimed: it measures each area first, deletes only what you select, measures again, and reports the difference per area and for the disk as a whole. | [Visit](https://pix-qr-generator.vercel.app/)  |
+
 
 !The world’s best senior.
 <br />
