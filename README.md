@@ -7,7 +7,7 @@ work, I'm drawn to the layer underneath it — developer tooling, AI-assisted
 code review, and the small utilities that quietly remove friction from a
 working day.
 
-I write [**Dev Content**](#), a technical newsletter in Portuguese about
+I write [**Dev Content**](https://www.linkedin.com/newsletters/dev-content-7469912139130961920/), a technical newsletter in Portuguese about
 front-end, tooling and what building software actually looks like day to day.
 
 ### Would you like to find me?
