@@ -37,9 +37,6 @@ front-end, tooling and what building software actually looks like day to day.
 <p align="center">
   <img src="https://ghchart.rshah.org/6B81FA/okayosilva" alt="Contribution graph" width="100%" />
 </p> 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=okayosilva&theme=dark&hide_border=true&ring=6B81FA&fire=6B81FA&currStreakLabel=6B81FA&v=2" alt="GitHub Streak" />
-</p>
 
 ---
  
