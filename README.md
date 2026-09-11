@@ -14,7 +14,7 @@ front-end, tooling and what building software actually looks like day to day.
 
 [![Twitter Badge](https://img.shields.io/badge/-@okayosilva-6B81FA?style=flat-square&labelColor=6B81FA&logo=instagram&logoColor=white&link=https:https://www.instagram.com/okayosilva/)](https://www.instagram.com/okayosilva/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6B81FA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okayosilvabs)](https://www.linkedin.com/in/kayohenriquesilva/)
-[![Gmail](https://img.shields.io/badge/-kayo16silva@gmail.com-6B81FA?style=flat-square&labelColor=6B81FA&logo=gmail&logoColor=white&link=contato@okayosilva.dev)](mailto:kayo16silva@gmail.com)
+[![Gmail](https://img.shields.io/badge/-contato@kayosilva.com-6B81FA?style=flat-square&labelColor=6B81FA&logo=gmail&logoColor=white&link=contato@okayosilva.dev)](mailto:contato@kayosilva.com)
 
 ![](https://komarev.com/ghpvc/?username=okayosilvabs&color=6B81FA&style=flat-square)
 
